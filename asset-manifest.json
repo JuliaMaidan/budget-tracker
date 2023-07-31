@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/budget-tracker/static/js/main.6340042c.js",
+    "index.html": "/budget-tracker/index.html",
+    "main.6340042c.js.map": "/budget-tracker/static/js/main.6340042c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6340042c.js"
+  ]
+}
